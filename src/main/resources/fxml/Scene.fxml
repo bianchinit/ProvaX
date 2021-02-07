@@ -16,7 +16,7 @@
                   <Insets left="10.0" />
                </HBox.margin>
             </Label>
-              <Button fx:id="btnCliccami" onAction="#handleButtonAction" prefHeight="25.0" prefWidth="111.0" text="Cliccami!" />
+              <Button fx:id="btnCliccami" onAction="#gestBottone" prefHeight="25.0" prefWidth="111.0" text="Cliccami!" />
             <TextArea fx:id="txtArea" prefHeight="439.0" prefWidth="572.0" />
          </children>
          <padding>
